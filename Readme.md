@@ -1,0 +1,2 @@
+Trabajar con repositorios remotos: Push y Pull
+Te has registrado, has creado un repositorio local y lo has subido a GitHub. Lo más difícil ya está hecho. ¡Buen trabajo! A continuación, vamos a averiguar cómo obtener los cambios del repositorio remoto a nuestro equipo local y cómo empujar a GitHub los cambios que hacemos. Hablemos de esto ahora mismo.
